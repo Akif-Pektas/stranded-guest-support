@@ -1,0 +1,1 @@
+"""Stranded Guest Support package."""
